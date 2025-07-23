@@ -17,5 +17,7 @@ Bibliografía del curso
 * Practical Machine Learning for Computer Vision, Valliappa Lakshmanan, Martin Görner, Ryan Gillard, O’Reilly.
 
 Información de Contacto
+
 Dr. Angel Moisés Hernández Ponce
+
 amhrdz.1001@gmail.com
