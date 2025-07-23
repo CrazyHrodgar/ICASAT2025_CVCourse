@@ -21,6 +21,6 @@ Nathalie Alvarez \
 Luis Daniel Canales \
 Dr. Angel Moisés Hernández Ponce
 
-# Información de Contacto \
+# Información de Contacto
 Dr. Angel Moisés Hernández Ponce \
 amhrdz.1001@gmail.com
