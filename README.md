@@ -16,8 +16,11 @@ Bibliografía del curso
 * Computer Vision, Cristopher W. Tyler, O'Reilly.
 * Practical Machine Learning for Computer Vision, Valliappa Lakshmanan, Martin Görner, Ryan Gillard, O’Reilly.
 
-Información de Contacto
-
+Material del curso desarrollado por: \
+Nathalie Alvarez \
+Luis Daniel Canales \
 Dr. Angel Moisés Hernández Ponce
 
+# Información de Contacto \
+Dr. Angel Moisés Hernández Ponce \
 amhrdz.1001@gmail.com
